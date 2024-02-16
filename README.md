@@ -1,0 +1,1 @@
+This repository includes all the relevant Lecture Notes complemented with Notes from Stephen Boyd's Convex Optimization book. It will also includes the relevant class assignments and exercises. The notes are complemetely reworked by myself so that they would integrate the book whenever classes were not clear enough.
